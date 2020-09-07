@@ -1,0 +1,16 @@
+
+
+--------------------------
+Level-1:
+--------------------------
+- component based UI arhc
+- props & state
+- life-cycle methods
+- inter component communication
+
+--------------------------
+Level-2:
+--------------------------
+- component context
+- higher-order-components 
+- best practices
